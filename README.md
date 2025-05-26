@@ -30,13 +30,11 @@ To explore patterns in accident severity, vehicle involvement, and location fact
 
 ## 🖼️ Dashboard Previews
 
-<img src="images/Dashboard_Overview.png" alt="Dashboard Overview" width="800"/>
+<img src="Images/Dashboard_Overview.png" alt="Dashboard Overview" width="800"/>
 
 ## 📁 Files
 
-> 🔐 If sharing the `.pbix` and `.xlsx` files, include this section. Otherwise, remove it.
-
-- [`road-accident-dashboard.pbix`](dashboard/road-accident-dashboard.pbix) — Full Power BI file
+- [`road-accident-dashboard.pbix`](Dashboard/road-accident-dashboard.pbix) — Full Power BI file
 
 ## 📌 Notes
 
