@@ -49,11 +49,3 @@ To explore patterns in accident severity, vehicle involvement, and location fact
 [LinkedIn](https://www.linkedin.com/in/bharat-kumar-bh)
 
 ---
-
-### ✅ Next Steps:
-
-1. Upload your dashboard screenshots to `images/`
-2. Upload the video to YouTube or GitHub (as done earlier)
-3. Upload `.pbix` and `.xlsx` only if you’re confident it’s safe
-
-Would you like me to generate this as a ready-to-paste `README.md` file for you to upload, or do you want the full ZIP structure too?
