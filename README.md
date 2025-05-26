@@ -34,7 +34,7 @@ To explore patterns in accident severity, vehicle involvement, and location fact
 
 ## 📁 Files
 
-- [`road-accident-dashboard.pbix`](Dashboard/Road Accident analysis.pbix) — Full Power BI file
+- [`road-accident-dashboard.pbix`](Dashboard/Road_Accident_analysis.pbix) — Full Power BI file
 
 ## 📌 Notes
 
